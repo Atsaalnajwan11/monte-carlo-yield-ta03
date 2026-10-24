@@ -1,0 +1,9 @@
+# Dependencies untuk Aplikasi Streamlit Monte Carlo TA-03
+# Mahasiswa: Atsaal Najwan (NIM 301240012)
+
+streamlit>=1.32.0
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+scipy>=1.10.0
+Pillow>=9.5.0
